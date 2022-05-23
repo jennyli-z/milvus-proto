@@ -134,7 +134,7 @@ enum MsgType {
     LoadPartitions = 205;
     ReleasePartitions = 206;
 
-    /* DEFINE REQUESTS: SEGMENT */
+    /* DEFINE REQUESTS: SEGMENT1 */
     ShowSegments = 250;
     DescribeSegment = 251;
     LoadSegments = 252;
